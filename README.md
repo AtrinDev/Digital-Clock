@@ -17,8 +17,8 @@
 
 ### Links
 
-- GitHub URL: [GitHub Repository]()
-- Live Site URL: [GitHub Pages]()
+- GitHub URL: [GitHub Repository](https://github.com/AtrinDev/Digital-Clock)
+- Live Site URL: [GitHub Pages](https://atrindev.github.io/Digital-Clock/)
 
 ## My process
 
